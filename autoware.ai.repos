@@ -2,55 +2,55 @@ repositories:
   autoware / common:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/common.git
-    version: 1.13.0
+    version: master
   autoware / core_perception:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/core_perception.git
-    version: 1.13.0
+    version: master
   autoware / core_planning:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/core_planning.git
-    version: 1.13.0
+    version: master
   autoware / essentials:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/essentials.git
-    version: 1.13.0
+    version: master
   autoware / documentation:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/documentation.git
-    version: 1.13.0
+    version: master
   autoware / messages:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/messages.git
-    version: 1.13.0
+    version: master
   autoware / simulation:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/simulation.git
-    version: 1.13.0
+    version: master
   autoware / utilities:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/utilities.git
-    version: 1.13.0
+    version: master
   autoware / visualization:
     type: git
     url: https://gitlab.com/hatem-darweesh-autoware.ai/visualization.git
-    version: 1.13.0
+    version: master
   drivers / awf_drivers:
     type: git
     url: https://gitlab.com/autowarefoundation/autoware.ai/drivers.git
-    version: 1.13.0
+    version: master
   citysim:
     type: git
     url: https://github.com/CPFL/osrf_citysim.git
-    version: 1.13.0
+    version: master
   car_demo:
     type: git
     url: https://github.com/CPFL/car_demo.git
-    version: 1.13.0
+    version: master
   drivers / ds4:
     type: git
     url: https://github.com/tier4/ds4.git
-    version: 1.13.0
+    version: master
   vendor / lanelet2:
     type: git
     url: https://github.com/fzi-forschungszentrum-informatik/Lanelet2.git
